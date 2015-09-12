@@ -1,3 +1,4 @@
 public class{
 	static void main()
+ xiao sao bi
 }
